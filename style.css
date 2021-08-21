@@ -59,4 +59,15 @@ input{
   font-family: fantasy;
   margin: 1rem;
   padding: 10px;
+  font-size: 2rem;
+  color: red;
+}
+
+.profitImage{
+  display: block;
+  margin: auto;
+  margin-top: 10px;
+  width: 20%;
+  justify-content: center;
+  visibility: hidden;
 }
